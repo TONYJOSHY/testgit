@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost:27017/TodosAppDb');
+mongoose.connect('mongodb://localhost:27017/MyStudy');
 
 module.exports = { mongoose }
 
